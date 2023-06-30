@@ -1,0 +1,20 @@
+.container {
+    border: 2px solid FF1053;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 90vw;
+    height: 90vh;
+    margin: auto;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 10px,10px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    margin-right: 3px;
+    justify-items: stretch;
+    align-items: stretch;
+  }

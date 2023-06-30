@@ -1,0 +1,17 @@
+@font-face {
+   font-family: rick_and_morty_fonts;
+   src: url('../src/assets/Fonts/rick fonts/get_schwifty.ttf');
+   color: blue;
+}
+.nav {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-image: url('../src/assets/cool-background.png');
+   border-radius: 2em;
+   width: 18vw;
+   height: 2.5em;   
+   margin-left: auto;
+ }
+
+
